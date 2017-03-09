@@ -877,7 +877,7 @@
                 backgroundColor: "transparent"
             },
             dropdown: {
-                position: "absolute",
+                position: "relative",
                 top: "100%",
                 left: "0",
                 zIndex: "100",
